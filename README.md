@@ -7,27 +7,6 @@ ML research with Jhonathan Parada
 
 Results on [kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) test partiton
 ```
-Classification report for classifier SVC(gamma=0.01):
-              precision    recall  f1-score   support
-
-           0       0.90      0.90      0.90      1112
-           1       0.80      0.91      0.85      1109
-           2       0.86      0.82      0.84      1130
-           3       0.76      0.78      0.77      1094
-           4       0.75      0.81      0.78      1079
-           5       0.84      0.72      0.77      1104
-           6       0.77      0.89      0.83      1081
-           7       0.84      0.85      0.84      1051
-           8       0.82      0.73      0.77      1045
-           9       0.80      0.70      0.75       973
-
-    accuracy                           0.81     10778
-   macro avg       0.81      0.81      0.81     10778
-weighted avg       0.82      0.81      0.81     10778
-```
-
-Results on [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) test partition
-```
 Classification report for classifier SVC(gamma=0.001):
               precision    recall  f1-score   support
 
@@ -45,4 +24,25 @@ Classification report for classifier SVC(gamma=0.001):
     accuracy                           0.86     10778
    macro avg       0.86      0.85      0.85     10778
 weighted avg       0.86      0.86      0.85     10778
+```
+
+Results on [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) test partition
+```
+Classification report for classifier SVC(gamma=0.001):
+              precision    recall  f1-score   support
+
+           0       0.92      0.98      0.95        88
+           1       0.98      0.44      0.61        91
+           2       0.92      1.00      0.96        86
+           3       0.84      0.84      0.84        91
+           4       0.79      0.75      0.77        92
+           5       0.94      0.51      0.66        91
+           6       0.94      0.90      0.92        91
+           7       0.98      0.45      0.62        89
+           8       0.61      0.80      0.69        88
+           9       0.41      0.91      0.57        92
+
+    accuracy                           0.76       899
+   macro avg       0.83      0.76      0.76       899
+weighted avg       0.83      0.76      0.76       899
 ```
