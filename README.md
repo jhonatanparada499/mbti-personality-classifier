@@ -3,9 +3,9 @@ ML research with Jhonathan Parada
 
 ## Recognizing Written Digits Using a [Dataset]([datasets/kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download)) from Kaggle
 
-[recognizing_written_digits.ipynb](recon_written_digits/recognizing_written_digits.ipynb) is trained using half the dataset [kaggle_written_digits]([datasets/kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download)) from Kaggle. Then, it is tested (validated) using the next half of the dataset. Furthermore, to prove compatibility with other datasets, the [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) dataset from Scikit-learn is passed to the model to make predictions. The performance metrics for both cases are:
+[recognizing_written_digits.ipynb](recon_written_digits/recognizing_written_digits.ipynb) is trained using half the dataset [kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle. Then, it is tested (validated) using the next half of the dataset. Furthermore, to prove compatibility with other datasets, the [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) dataset from Scikit-learn is passed to the model to make predictions. The performance metrics for both cases are:
 
-Results on [kaggle_written_digits]([datasets/kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download)) test partiton
+Results on [kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) test partiton
 ```
 Classification report for classifier SVC(gamma=0.01):
               precision    recall  f1-score   support
