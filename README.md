@@ -50,4 +50,4 @@ weighted avg       0.83      0.76      0.76       899
 ## Next Tasks
 
 1. Combine Kaggle and Scikit-learn digits datasets to train and test model. (In progress...)
-2. Train a Model to predict characters from the Alphabet. (Not started yet)
+2. Train a Model to predict characters from the Alphabet. (Completed)
