@@ -47,7 +47,45 @@ Classification report for classifier SVC(gamma=0.001):
 weighted avg       0.83      0.76      0.76       899
 ```
 
+## Recognizing Written Alphabet Using a [Dataset](https://www.kaggle.com/datasets/sankalpsrivastava26/capital-alphabets-28x28/data) from Kaggle
+[recognizing_written_alphabet.ipynb](recon_written_alphabet/recognizing_written_alphabet.ipynb) is trained using the [Alphabets Dataset (300x300)](https://www.kaggle.com/datasets/sankalpsrivastava26/capital-alphabets-28x28/data) dataset from Kaggle. For each character category, 1600 images are used for training and testing.Then, it is tested (validated) using its next half. Here is its performance:
+
+```
+Classification report for Kaggle dataset:
+              precision    recall  f1-score   support
+
+           A       0.88      0.90      0.89       808
+           B       0.88      0.83      0.85       810
+           C       0.93      0.89      0.91       797
+           D       0.90      0.85      0.88       774
+           E       0.81      0.82      0.81       789
+           F       0.91      0.89      0.90       812
+           G       0.58      0.87      0.70       794
+           H       0.89      0.83      0.86       811
+           I       0.76      0.91      0.83       768
+           J       0.91      0.89      0.90       817
+           K       0.91      0.86      0.88       811
+           L       0.96      0.93      0.95       808
+           M       0.96      0.93      0.94       813
+           N       0.92      0.90      0.91       779
+           O       0.91      0.95      0.93       797
+           P       0.90      0.92      0.91       820
+           Q       0.93      0.84      0.88       797
+           R       0.93      0.85      0.89       832
+           S       0.96      0.94      0.95       817
+           T       0.96      0.93      0.95       841
+           U       0.93      0.92      0.92       787
+           V       0.92      0.90      0.91       798
+           W       0.94      0.92      0.93       780
+           X       0.96      0.88      0.92       791
+           Y       0.92      0.89      0.90       790
+           Z       0.92      0.91      0.92       772
+
+    accuracy                           0.89     20813
+   macro avg       0.90      0.89      0.89     20813
+weighted avg       0.90      0.89      0.89     20813
+```
+
 ## Next Tasks
 
 1. Combine Kaggle and Scikit-learn digits datasets to train and test model. (In progress...)
-2. Train a Model to predict characters from the Alphabet. (Completed)
