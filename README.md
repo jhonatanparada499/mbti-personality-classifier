@@ -85,7 +85,3 @@ Classification report for Kaggle dataset:
    macro avg       0.90      0.89      0.89     20813
 weighted avg       0.90      0.89      0.89     20813
 ```
-
-## Next Tasks
-
-1. Combine Kaggle and Scikit-learn digits datasets to train and test model. (In progress...)
