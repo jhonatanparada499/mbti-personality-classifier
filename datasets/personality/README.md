@@ -13,3 +13,5 @@
 - [the_big_five_personality_test](https://www.kaggle.com/code/mbslll/the-big-five-personality-test)
 - [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook)
 - [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
+
+Currently Reading: [Big Five Personality Test](https://www.kaggle.com/datasets/tunguz/big-five-personality-test)
