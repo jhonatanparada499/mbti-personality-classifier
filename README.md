@@ -12,7 +12,7 @@ ML research with Jhonathan Parada
 - [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
 - [Five Personality Clusters & Analysis](https://www.kaggle.com/code/mchd40/five-personality-clusters-analysis)
 
-Currently Reading: [Big Five Personality Test](https://www.kaggle.com/datasets/tunguz/big-five-personality-test)
+Currently Reading: MEO_Big_5_Personality
 
 ## Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
 
