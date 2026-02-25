@@ -8,7 +8,6 @@ ML research with Jhonathan Parada
 - [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
 
 ### The Big Five Examples
-- [the_big_five_personality_test](https://www.kaggle.com/code/mbslll/the-big-five-personality-test)
 - [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook)
 - [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
 
