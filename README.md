@@ -7,7 +7,7 @@ ML research with Jhonathan Parada
 - [Personality Prediction Project using ML](https://www.geeksforgeeks.org/machine-learning/overview-of-personality-prediction-project-using-ml/)
 - [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
 
-### The Big Five Examples
+### The Big Five(OCEAN) Examples
 - [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook)
 - [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
 - [Five Personality Clusters & Analysis](https://www.kaggle.com/code/mchd40/five-personality-clusters-analysis)
