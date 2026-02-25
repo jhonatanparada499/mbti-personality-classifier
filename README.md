@@ -1,6 +1,19 @@
 # SP26_Jhonathan_parada
 ML research with Jhonathan Parada
 
+## Personality
+
+### MBTI
+- [Personality Prediction Project using ML](https://www.geeksforgeeks.org/machine-learning/overview-of-personality-prediction-project-using-ml/)
+- [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
+
+### The Big Five
+- [the_big_five_personality_test](https://www.kaggle.com/code/mbslll/the-big-five-personality-test)
+- [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook)
+- [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
+
+Currently Reading: [Big Five Personality Test](https://www.kaggle.com/datasets/tunguz/big-five-personality-test)
+
 ## Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
 
 [recognizing_written_digits.ipynb](recon_written_digits/recognizing_written_digits.ipynb) is trained using half the [kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) dataset from Kaggle. Then, it is tested (validated) using its next half. Furthermore, to prove compatibility with other datasets, the [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) dataset from Scikit-learn is passed to the model to make predictions. The performance metrics for both cases are:
