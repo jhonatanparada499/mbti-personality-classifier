@@ -8,7 +8,8 @@ ML research with Jhonathan Parada
 - [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
 
 ### The Big Five(OCEAN) Examples
-- [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook)
+- [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook): Users are asked 10 questions per OCEAN category  to rate themselves from (1-5). That is the dataset. Some values are null or missing. The author of this link uses an impressive data sanitation technique. 
+
 - [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
 - [Five Personality Clusters & Analysis](https://www.kaggle.com/code/mchd40/five-personality-clusters-analysis)
 
