@@ -5,7 +5,7 @@ ML research with Jhonathan Parada
 
 ### Papers
 - Personality Detection using XLM-ROBERTa and
-Whisper (Reading: II. LITERATURE SURVEY)
+Whisper (Reading: Page 2)
 
 ### MBTI Examples
 - [Personality Prediction Project using ML](https://www.geeksforgeeks.org/machine-learning/overview-of-personality-prediction-project-using-ml/)
