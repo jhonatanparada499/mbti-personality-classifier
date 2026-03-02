@@ -8,7 +8,7 @@ ML research with Jhonathan Parada
 Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
 
 **Reading:** Whitespace Normalization p. 4   
-**Notes:** Paper seems to be a pipeline design to process either text or audio data(bimodal) using Whisper(ASR), a tokenizer, and a "tuned" classification model called XLMRobertaClassifier to predict MBTI types. They used MBTI types as labels and forum posts(video links and text concatenated by ||) from profiles as features.
+**Notes:** Paper seems to be a pipeline design to process either text or audio data(bimodal) using Whisper(ASR), a tokenizer, and a "tuned" classification model called XLMRobertaClassifier to predict MBTI types. They used MBTI types as labels and forum posts(video links and text concatenated by ||) from profiles as features. (03-28)
 
 ### MBTI Examples
 - [Personality Prediction Project using ML](https://www.geeksforgeeks.org/machine-learning/overview-of-personality-prediction-project-using-ml/)
