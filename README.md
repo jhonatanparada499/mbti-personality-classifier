@@ -7,7 +7,7 @@ ML research with Jhonathan Parada
 - [Personality Detection using XLM-ROBERTa and
 Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
 
-**Reading:** Whitespace Normalization p. 4   
+**Reading:** C. Speech-to-Text Module: OpenAI’s Whisper p. 4   
 **Notes:** Paper seems to be a pipeline design to process either text or audio data(bimodal) using Whisper(ASR), a tokenizer, and a "tuned" classification model called XLMRobertaClassifier to predict MBTI types. They used MBTI types as labels and forum posts(video links and text concatenated by |||) from profiles as features. (03-28).  
 How does hybrid resampling work? Specially how did they convert less than 250 samples into 800 samples in Fig. 3 and 4? (03-02)
 
