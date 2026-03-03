@@ -22,7 +22,7 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 
 ### Toy Examples
 #### Natural Language Processing
-- Working on Gender recognition.
+- Inspiration: [Classifying User Gender Based on Tweet Text](https://www.kaggle.com/code/kinguistics/classifying-user-gender-based-on-tweet-text/notebook)
 
 #### Computer Vision
 - Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
