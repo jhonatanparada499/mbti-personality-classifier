@@ -1,6 +1,6 @@
 # SP26_Jhonathan_parada
 ML research with Jhonathan Parada  
-Currently working on: Gender classification from text.
+Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
 
 ## Personality
 
@@ -11,7 +11,6 @@ Currently working on: Gender classification from text.
 - [Personality Detection using XLM-ROBERTa and
 Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
 
-**Reading:** Done  
 **Notes:** Paper seems to be a pipeline design to process either text or audio data(bimodal) using Whisper(ASR, whisper-large-v3), a tokenizer, and a "tuned" classification model called XLMRobertaClassifier to predict MBTI types. They used MBTI types as labels and forum posts(video links and text concatenated by |||) from profiles as features. (03-28).  
 
 How does hybrid resampling work? Specially how did they convert less than 250 samples into 800 samples in Fig. 3 and 4?  
