@@ -3,7 +3,7 @@ ML research with Jhonathan Parada
 Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
  
 
-[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/Extracting features from text files) (reading: Loading the 20 newsgroups dataset)
+[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (reading: Bags of Words) Covers: Bags of words
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
 |  
