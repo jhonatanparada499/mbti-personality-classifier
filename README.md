@@ -1,5 +1,5 @@
 # SP26_Jhonathan_parada
-ML research with Jhonathan Parada
+ML research with Jhonathan Parada  
 Currently working on: Gender classification from text.
 
 ## Personality
@@ -20,7 +20,7 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 
 ### Toy Examples
 #### Natural Language Processing
-Working on Gender recognition.
+- Working on Gender recognition.
 
 #### Computer Vision
 - Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
