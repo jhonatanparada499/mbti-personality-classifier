@@ -4,6 +4,9 @@ Currently working on: Gender classification from text.
 
 ## Personality
 
+### Datasets
+- [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  
+
 ### Papers
 - [Personality Detection using XLM-ROBERTa and
 Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
