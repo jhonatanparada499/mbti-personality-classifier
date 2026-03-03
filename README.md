@@ -118,3 +118,9 @@ Classification report for Kaggle dataset:
    macro avg       0.90      0.89      0.89     20813
 weighted avg       0.90      0.89      0.89     20813
 ```
+
+## Articles Read
+- [Easiest way to download kaggle data in Google Colab](https://www.kaggle.com/discussions/general/74235)
+- [Recognizing hand-written digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)
+- [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)
+- [Personality Detection using XLM-ROBERTa and Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
