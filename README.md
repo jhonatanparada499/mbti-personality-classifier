@@ -17,14 +17,6 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 - [Personality Prediction Project using ML](https://www.geeksforgeeks.org/machine-learning/overview-of-personality-prediction-project-using-ml/)
 - [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
 
-### The Big Five(OCEAN) Examples
-- [MEO_Big_5_Personality](https://www.kaggle.com/code/eminovus/meo-big-5-personality/notebook): Users are asked 10 questions per OCEAN category  to rate themselves from (1-5). That is the dataset. Some values are null or missing. The author of this link uses an impressive data sanitation technique. 
-
-- [Five Personality Clustering](https://www.kaggle.com/code/zeynepsivri/five-personality-clustering)
-- [Five Personality Clusters & Analysis](https://www.kaggle.com/code/mchd40/five-personality-clusters-analysis)
-
-Currently Reading: MEO_Big_5_Personality
-
 ## Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
 
 [recognizing_written_digits.ipynb](recon_written_digits/recognizing_written_digits.ipynb) is trained using half the [kaggle_written_digits](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) dataset from Kaggle. Then, it is tested (validated) using its next half. Furthermore, to prove compatibility with other datasets, the [Scikit-learn digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html) dataset from Scikit-learn is passed to the model to make predictions. The performance metrics for both cases are:
