@@ -32,8 +32,25 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 - [predicting personality from social media text.](https://rismakov.com/mbti-prediction/category/Scikit-learn)
 
 ### Toy Examples
-#### Natural Language Processing
-- Inspiration: [Classifying User Gender Based on Tweet Text](https://www.kaggle.com/code/kinguistics/classifying-user-gender-based-on-tweet-text/notebook)
+#### Natural Language Processing  
+I found this code snippet which seems very to be a clean way to implement a pipeline
+source: [Scikit-learn Working with Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)  
+```python
+>>> from sklearn.linear_model import SGDClassifier
+>>> text_clf = Pipeline([
+...     ('vect', CountVectorizer()),                        # Vectorizer
+...     ('tfidf', TfidfTransformer()),                      # Transformer
+...     ('clf', SGDClassifier(loss='hinge', penalty='l2',   # Classifier
+...                           alpha=1e-3, random_state=42,
+...                           max_iter=5, tol=None)),
+... ])
+
+>>> text_clf.fit(twenty_train.data, twenty_train.target)
+Pipeline(...)
+>>> predicted = text_clf.predict(docs_test)
+>>> np.mean(predicted == twenty_test.target)
+0.9101...
+```
 
 #### Computer Vision
 - Recognizing Written Digits Using a [Dataset](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download) from Kaggle
@@ -127,3 +144,5 @@ weighted avg       0.90      0.89      0.89     20813
 - [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)
 - [Personality Detection using XLM-ROBERTa and Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
 - [Google ML Concepts](https://developers.google.com/machine-learning/crash-course/)
+- [Classifying User Gender Based on Tweet Text](https://www.kaggle.com/code/kinguistics/classifying-user-gender-based-on-tweet-text/notebook)
+
