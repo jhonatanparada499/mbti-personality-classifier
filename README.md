@@ -33,7 +33,7 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 
 ### Toy Examples
 #### Natural Language Processing  
-I found this code snippet which seems very to be a clean way to implement a pipeline
+I found this code snippet which seems very to be a clean way to implement a pipeline  
 source: [Scikit-learn Working with Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)  
 ```python
 >>> from sklearn.linear_model import SGDClassifier
