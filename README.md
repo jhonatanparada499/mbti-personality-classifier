@@ -7,12 +7,11 @@ Currently working on: Gender classification from text using N-GRAM and BAG-OF-WO
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
 |  
-[Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Reading: Introduction)  
+[Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Reading: Real-world embedding spaces)  
 |  
 [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Reading: How are n grams used for word embeddings)  
 |  
 classifying-user-gender-based-on-tweet-text.ipynb  
-
 
 ## Personality
 
@@ -127,3 +126,4 @@ weighted avg       0.90      0.89      0.89     20813
 - [Recognizing hand-written digits](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)
 - [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)
 - [Personality Detection using XLM-ROBERTa and Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
+- [Google ML Concepts](https://developers.google.com/machine-learning/crash-course/)
