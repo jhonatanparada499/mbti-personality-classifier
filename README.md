@@ -2,8 +2,8 @@
 ML research with Jhonathan Parada  
 Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
  
-
-[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (reading: Parameter tuning using grid search) Covers: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB)  
+[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
+keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
 |  
@@ -145,4 +145,5 @@ weighted avg       0.90      0.89      0.89     20813
 - [Personality Detection using XLM-ROBERTa and Whisper](papers/Personality_Detection_Using_Xlm-Roberta_and_Whisper.pdf)  
 - [Google ML Concepts](https://developers.google.com/machine-learning/crash-course/)
 - [Classifying User Gender Based on Tweet Text](https://www.kaggle.com/code/kinguistics/classifying-user-gender-based-on-tweet-text/notebook)
+- [Bag of words (BoW) model in NLP](https://www.geeksforgeeks.org/nlp/bag-of-words-bow-model-in-nlp/)
 
