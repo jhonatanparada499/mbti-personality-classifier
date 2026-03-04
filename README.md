@@ -1,4 +1,4 @@
-# SP26_Jhonathan_parada
+# SP26 Jhonathan Parada
 ML research with Jhonathan Parada  
 Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
  
