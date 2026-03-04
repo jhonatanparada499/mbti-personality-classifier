@@ -7,7 +7,7 @@ Currently working on: Gender classification from text using N-GRAM and BAG-OF-WO
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
 |  
-[N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12)  
+[N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Reading: Significance of N-grams in NLP)  
 |  
 classifying-user-gender-based-on-tweet-text.ipynb  
 
