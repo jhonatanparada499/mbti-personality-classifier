@@ -3,13 +3,13 @@ ML research with Jhonathan Parada
 Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
  
 
-[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (reading: From occurrences to frequencies) Covers: Bags of words, n-grams, and how it relates to CountVectorizer  
+[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (reading: Training a classifier) Covers: Bags of words, n-grams, and how it relates to CountVectorizer  
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
 |  
 [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Done)  
 |  
-[N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Reading: How are n grams used for word embeddings)  
+[N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Done)  
 |  
 classifying-user-gender-based-on-tweet-text.ipynb  
 
