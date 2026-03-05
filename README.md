@@ -5,7 +5,7 @@ Currently working on: Gender classification from text using N-GRAM and BAG-OF-WO
 [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
 keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
 |  
-[NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Hashing Vectorizer)  
+[NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Done)  
 |  
 [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Done)  
 |  
