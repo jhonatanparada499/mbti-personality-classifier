@@ -6,12 +6,13 @@ Currently working on: Gender classification from text using N-GRAM and BAG-OF-WO
 keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Done)  
+keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer
 |  
 [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Done)  
 |  
 [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Done)  
 |  
-classifying-user-gender-based-on-tweet-text.ipynb  
+classifying-user-gender-based-on-tweet-text.ipynb (Reading...) 
 
 ## Personality
 
