@@ -12,7 +12,7 @@ keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectoriz
 |  
 [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Done)  
 |  
-classifying-user-gender-based-on-tweet-text.ipynb (Reading:About 30% of the observations have less than 100% confidence in the gender classification, so we'll ignore those.)  
+[classifying-user-gender-based-on-tweet-text](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb).ipynb (Reading:About 30% of the observations have less than 100% confidence in the gender classification, so we'll ignore those.)  
 Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)
 
 ## Personality
