@@ -14,7 +14,7 @@ keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectoriz
 |  
 [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb) (Done)  
 Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)  
-Code Modifications and Observations:  
+Code Modifications and Observations:
 - Added extra backspace characters to fix regex expression in text normalization
 - Added metrics visualization and discovered 2 more categories from the dataset: brand & unknown
 - Passed the 'all_features' column to the fit_transform method, which the user seemed to have forgotten, increasing accuracy by 10%  
