@@ -17,7 +17,7 @@ Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/cr
 Code Modifications and Observations:
 - Added extra backspace characters to fix regex expression in text normalization
 - Added metrics visualization and discovered 2 more categories from the dataset: brand & unknown
-- Passed the 'all_features' column to the fit_transform method, which the user seemed to have forgotten, increasing accuracy by 10%  
+- Passed the 'all_features' column to the fit_transform method, which the author seemed to have forgotten, increasing accuracy by 10%  
 - Added debug tasks to fix gender_nonones & extra categories
 
 ## Personality
