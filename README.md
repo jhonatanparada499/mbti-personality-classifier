@@ -1,7 +1,7 @@
 # SP26 Jhonathan Parada
 ML research with Jhonathan Parada  
-Currently working on: Gender classification from text using N-GRAM and BAG-OF-WORDS.
- 
+Currently working on: [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
+
 [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
 keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
 |  
