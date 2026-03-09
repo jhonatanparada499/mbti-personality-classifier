@@ -19,6 +19,7 @@ Code Modifications and Observations:
 - Added metrics visualization and discovered 2 more categories from the dataset: brand & unknown
 - Passed the 'all_features' column to the fit_transform method, which the author seemed to have forgotten, increasing accuracy by 10%
 - Added debug tasks to fix gender_nonones & extra categories
+- Noticed that the score method changes the value each time is run, I do not understand why.
 
 ## Personality
 
