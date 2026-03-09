@@ -6,7 +6,7 @@ Currently working on: [classifying-user-gender-based-on-tweet-text.ipynb](toy_ex
 keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
 |  
 [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Done)  
-keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer
+keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer  
 |  
 [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Done)  
 |  
