@@ -21,6 +21,9 @@ Code Modifications and Observations:
 - Added debug tasks to fix gender_nonones & extra categories
 - Noticed that the score method changes the value each time is run, I do not understand why.
 
+**Friday Notes**: TfidfTransformer is not a tokenizer, but a transformer because it takes a tokenizer object(like a CountVectorizer) and transform the words(tokens) by frecuency, hence the term "Term Frecuency", and it "downscale the weights for words that occur in many documents,
+hence "Term Frecuency times Inverse Document Frequency"  
+
 ## Personality
 
 ### Datasets
