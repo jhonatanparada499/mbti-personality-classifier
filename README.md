@@ -157,5 +157,5 @@ weighted avg       0.90      0.89      0.89     20813
 - [Classifying User Gender Based on Tweet Text](https://www.kaggle.com/code/kinguistics/classifying-user-gender-based-on-tweet-text/notebook)
 - [Bag of words (BoW) model in NLP](https://www.geeksforgeeks.org/nlp/bag-of-words-bow-model-in-nlp/)
 - [NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  
-- [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12) (Done)  
-- [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings) (Done)  
+- [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12)
+- [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings)
