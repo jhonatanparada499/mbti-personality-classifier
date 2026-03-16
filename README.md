@@ -11,6 +11,7 @@ keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectoriz
 |  
 [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb) (Done)  
 
+As of 03-16-2026, the gender prediction model has a 87% accuracy, 17% more than last week.
 ![confusion_matrix](./images/tfidf_pipeline_performance.png)
 
 Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)  
