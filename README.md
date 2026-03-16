@@ -1,7 +1,7 @@
 # SP26 Jhonathan Parada
 ML research with Jhonathan Parada  
-Currently working on: TfidfVectorizer [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
-Future goal: Once understanding the above task, plus the pipeline implementation, check [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.
+Currently working on: Tunning [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
+Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.
 
 [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
 keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
@@ -18,6 +18,7 @@ Code Modifications and Observations:
 - Added debug tasks to fix gender_nonones & extra categories
 - Noticed that the score method changes the value each time is run, I do not understand why.
 - Removed non-male and non-female labels from dataset
+- improved model by implementing a tlfid transformer into a pipeline
 
 **Friday Notes**: TfidfTransformer is not a tokenizer, but a transformer because it takes a tokenizer object(like a CountVectorizer) and transform the words(tokens) by frecuency, hence the term "Term Frecuency", and it "downscale the weights for words that occur in many documents,
 hence "Term Frecuency times Inverse Document Frequency"  
