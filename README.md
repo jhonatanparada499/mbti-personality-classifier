@@ -1,6 +1,6 @@
 # SP26 Jhonathan Parada
 ML research with Jhonathan Parada  
-Currently working on: [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
+Currently working on: TfidfVectorizer [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
 Future goal: Once understanding the above task, plus the pipeline implementation, check [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.
 
 [Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
@@ -17,9 +17,17 @@ Code Modifications and Observations:
 - Passed the 'all_features' column to the fit_transform method, which the author seemed to have forgotten, increasing accuracy by 10%
 - Added debug tasks to fix gender_nonones & extra categories
 - Noticed that the score method changes the value each time is run, I do not understand why.
+- Removed non-male and non-female labels from dataset
 
 **Friday Notes**: TfidfTransformer is not a tokenizer, but a transformer because it takes a tokenizer object(like a CountVectorizer) and transform the words(tokens) by frecuency, hence the term "Term Frecuency", and it "downscale the weights for words that occur in many documents,
 hence "Term Frecuency times Inverse Document Frequency"  
+```
+CountVectorizer
+Transforms text into a sparse matrix of n-gram counts.
+
+TfidfTransformer
+Performs the TF-IDF transformation from a provided matrix of counts.
+```
 
 There is a TfidfTransformer and TfidfVectorizer, the latter one is a CountVectorizer followed by a TfidfTransformer. The vectorizer versions support options to set the N-gram of the tokens.  
 
