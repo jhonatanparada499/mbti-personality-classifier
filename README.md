@@ -10,6 +10,9 @@ keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit
 keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer  
 |  
 [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb) (Done)  
+
+![confusion_matrix](./images/tfidf_pipeline_performance.png)
+
 Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)  
 Code Modifications and Observations:
 - Added extra backspace characters to fix regex expression in text normalization
