@@ -14,6 +14,7 @@ Finding MBTI datasets
 
 ### Datasets
 - [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  
+- [OCEAN Personality Types](https://huggingface.co/datasets/Fatima0923/Automated-Personality-Prediction)
 
 ### Papers
 - [Personality Detection using XLM-ROBERTa and
