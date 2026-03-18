@@ -3,39 +3,6 @@ ML research with Jhonathan Parada
 Currently working on: Tunning [classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb)
 Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.  
 
-[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
-keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
-|  
-[NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Done)  
-keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer  
-|  
-[classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb) (Done)  
-
-As of 03-16-2026, the gender prediction model has a 87% accuracy, 18% more than last week.
-![confusion_matrix](./images/tfidf_pipeline_performance.png)
-
-Dataset: [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)  
-Code Modifications and Observations:
-- Added extra backspace characters to fix regex expression in text normalization
-- Added metrics visualization and discovered 2 more categories from the dataset: brand & unknown
-- Passed the 'all_features' column to the fit_transform method, which the author seemed to have forgotten, increasing accuracy by 10%
-- Added debug tasks to fix gender_nonones & extra categories
-- Noticed that the score method changes the value each time is run, I do not understand why.
-- Removed non-male and non-female labels from dataset
-- improved model by implementing a tlfid transformer into a pipeline
-
-**Friday Notes**: TfidfTransformer is not a tokenizer, but a transformer because it takes a tokenizer object(like a CountVectorizer) and transform the words(tokens) by frecuency, hence the term "Term Frecuency", and it "downscale the weights for words that occur in many documents,
-hence "Term Frecuency times Inverse Document Frequency"  
-```
-CountVectorizer
-Transforms text into a sparse matrix of n-gram counts.
-
-TfidfTransformer
-Performs the TF-IDF transformation from a provided matrix of counts.
-```
-
-There is a TfidfTransformer and TfidfVectorizer, the latter one is a CountVectorizer followed by a TfidfTransformer. The vectorizer versions support options to set the N-gram of the tokens.  
-
 ## Personality
 
 ### Datasets
@@ -56,6 +23,42 @@ What do you mean by "implemented via the Hugging Face 'pipeline'" and "Hugging F
 
 ### Toy Examples
 #### Natural Language Processing  
+- Classifying User Gender Based on Tweet Text  
+
+[tfidf_classifying_user_gender_based_on_tweet_text.ipynb](./toy_examples/lang_processing/tfidf_classifying_user_gender_based_on_tweet_text.ipynb) is trained using [Twitter User Gender Classification](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)  
+ 
+As of 03-16-2026, the gender prediction model has a 87% accuracy, 18% more than the previous week.
+![confusion_matrix](./images/tfidf_pipeline_performance.png)  
+
+**Roadmap**  
+[Working With Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html) (Done).  
+keywords: Bags of words, n-grams CountVectorizer, naïve Bayes classifier(scikit implementation: MultinomialNB), automatic param tunning  
+|  
+[NLP: Text Vectorization Methods with SciKit Learn](https://admantium.medium.com/nlp-text-vectorization-methods-with-scikit-learn-4ada4e845a73)  (Done)  
+keywords: CountVectorizer, Corpus, Preprocessor, one-hot encoder, tfldf vectorizer  
+|  
+[classifying-user-gender-based-on-tweet-text.ipynb](toy_examples/lang_processing/classifying-user-gender-based-on-tweet-text.ipynb) (Done)  
+
+Code Modifications and Observations:
+- Added extra backspace characters to fix regex expression in text normalization
+- Added metrics visualization and discovered 2 more categories from the dataset: brand & unknown
+- Passed the 'all_features' column to the fit_transform method, which the author seemed to have forgotten, increasing accuracy by 10%
+- Added debug tasks to fix gender_nonones & extra categories
+- Noticed that the score method changes the value each time is run, I do not understand why.
+- Removed non-male and non-female labels from dataset
+- improved model by implementing a tlfid transformer into a pipeline
+
+**Friday Notes**: TfidfTransformer is not a tokenizer, but a transformer because it takes a tokenizer object(like a CountVectorizer) and transform the words(tokens) by frecuency, hence the term "Term Frecuency", and it "downscale the weights for words that occur in many documents,
+hence "Term Frecuency times Inverse Document Frequency"  
+```
+CountVectorizer
+Transforms text into a sparse matrix of n-gram counts.
+
+TfidfTransformer
+Performs the TF-IDF transformation from a provided matrix of counts.
+```
+
+There is a TfidfTransformer and TfidfVectorizer, the latter one is a CountVectorizer followed by a TfidfTransformer. The vectorizer versions support options to set the N-gram of the tokens.  
 I found this code snippet which seems very to be a clean way to implement a pipeline  
 source: [Scikit-learn Working with Text Data](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html)  
 ```python
