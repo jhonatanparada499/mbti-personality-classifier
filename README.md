@@ -3,6 +3,13 @@ ML research with Jhonathan Parada
 Currently working on: Find MBTI datasets and join them  
 Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.  
 
+**Roadmap**  
+Finding MBTI datasets  
+- [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  
+|
+[Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)
+- 
+
 ## Personality
 
 ### Datasets
