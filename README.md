@@ -1,4 +1,6 @@
 # SP26 Jhonathan Parada
+TASK: RENAME COLUMNS (IE,.. to lower case to keep naming consistent). 
+
 ML research with Jhonathan Parada  
 Currently working on: Find MBTI datasets and join them  
 Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.  
