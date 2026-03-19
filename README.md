@@ -1,7 +1,7 @@
 # SP26 Jhonathan Parada
 TASK: RENAME COLUMNS (IE,.. to lower case to keep naming consistent). 
 
-TASK: Learn frontend+backend frameworks to host ML models and how to deploy them on Github.
+TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
 
 ML research with Jhonathan Parada  
 Currently working on: Find MBTI datasets and join them  
