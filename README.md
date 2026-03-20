@@ -15,7 +15,7 @@ Datasets that will be used(3):
 **Notes:** Total 106K records  
 - [MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/mazlumi/mbti-personality-type-twitter-dataset)(Manually cleaned+lemmatized to combine with [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset))  
 ![my_dataset](./images/cleaned_twitter_mbti.png)  
-**Notes:** Because Lemmatization took X time to be applied to around 8K entries with text, it was exported and uploaded to Kaggle to not having to when training the model.  
+**Notes:** Because Lemmatization took 10 minutes to be applied to around 8K entries with text, it was exported and uploaded to Kaggle to not having to when training the model.  
 Time to lemmatize: 10 Minutes.
 Cleaned Dataset Link: [](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)(private currently)  
 |  
