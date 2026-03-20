@@ -1,6 +1,4 @@
 # SP26 Jhonathan Parada
-TASK: RENAME COLUMNS (IE,.. to lower case to keep naming consistent). 
-
 TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
 
 ML research with Jhonathan Parada  
