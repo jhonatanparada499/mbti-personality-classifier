@@ -10,18 +10,20 @@ Datasets that will be used(3):
 - [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  (Includes cleaned [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type) and [Myers Briggs Personality Tags on Reddit Data](https://zenodo.org/records/1323873#.YXhg5xpBzIV))  
 **Notes:** Total 106K records  
 - [MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/mazlumi/mbti-personality-type-twitter-dataset)(Manually cleaned+lemmatized to combine with [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset))  
+
 ![my_dataset](./images/cleaned_twitter_mbti.png)  
+
 **Notes:** Because Lemmatization took 10 minutes to be applied to around 8K entries with text, it was exported and uploaded to Kaggle to not having to when training the model.  
 Time to lemmatize: 10 Minutes.
 Cleaned Dataset Link: [](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)(private currently)  
 |  
 [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
-[MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
-[AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
-[Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
+- [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
+- [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
+- [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 Above is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against the combined dataset of 112K~ entries. The testing was done on the 30% of the dataset, and fitting on the other 70%.
 
-![binary classifiers](./images/binary_mbti_classifiers_performance.png)
+![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
 ## Personality
 
