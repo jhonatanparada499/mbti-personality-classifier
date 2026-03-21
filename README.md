@@ -1,10 +1,6 @@
 # SP26 Jhonathan Parada
 TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
 
-TASK: Expand labels of 500 MBTI dataset and combine with cleaned Twitter dataset. Then, save to kaggle.
-
-TASK: Rename the current jupyter notebook to "cleaning-and-lematizing-twitter-dataset" and put in a dir called dataset_makers/
-
 ML research with Jhonathan Parada  
 Currently working on: Find MBTI datasets and join them  
 Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.  
