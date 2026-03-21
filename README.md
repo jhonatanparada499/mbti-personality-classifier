@@ -17,8 +17,8 @@ Cleaned Dataset Link: [](https://www.kaggle.com/datasets/jhonatanparada/cleaned-
 |  
 [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
 [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
-[AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)
-[Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)
+[AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
+[Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 Above is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against the combined dataset of 112K~ entries. The testing was done on the 30% of the dataset, and fitting on the other 70%.
 
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)
