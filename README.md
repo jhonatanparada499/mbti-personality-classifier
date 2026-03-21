@@ -14,8 +14,8 @@ Datasets that will be used(3):
 ![my_dataset](./images/cleaned_twitter_mbti.png)  
 
 **Notes:** Because Lemmatization took 10 minutes to be applied to around 8K entries with text, it was exported and uploaded to Kaggle to not having to when training the model.  
-Time to lemmatize: 10 Minutes.
-Cleaned Dataset Link: [](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)(private currently)  
+Time to lemmatize: 10 Minutes.  
+Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)  
 |  
 [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
