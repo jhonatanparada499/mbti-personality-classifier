@@ -24,6 +24,7 @@ Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://ww
 
 Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against 30% of the combined dataset of 112K~ entries.  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
+**Binary Models Hosted on Hugging Face:** https://huggingface.co/jhonatanparada499/binary-mbti-classifiers/tree/main
 
 ## Personality
 
