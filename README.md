@@ -22,7 +22,7 @@ Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://ww
 - [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 
-Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against the combined dataset of 112K~ entries. The testing was done on the 30% of the dataset, and fitting on the other 70%.  
+Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against 30% of the combined dataset of 112K~ entries.  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
 ## Personality
