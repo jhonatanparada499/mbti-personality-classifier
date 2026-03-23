@@ -30,7 +30,9 @@ Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N
 
 ### Datasets
 - [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  
-- [OCEAN Personality Types](https://huggingface.co/datasets/Fatima0923/Automated-Personality-Prediction)
+- [Cleaned MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)  
+
+- [OCEAN Personality Types](https://huggingface.co/datasets/Fatima0923/Automated-Personality-Prediction)  
 
 ### Papers
 - [Personality Detection using XLM-ROBERTa and
