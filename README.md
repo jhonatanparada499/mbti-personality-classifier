@@ -2,8 +2,7 @@
 TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
 
 ML research with Jhonathan Parada  
-Currently working on: Find MBTI datasets and join them  
-Future goal: [Parameter tuning using grid search](https://scikit-learn.org/1.4/tutorial/text_analytics/working_with_text_data.html#building-a-pipeline) to find most effective model.  
+Currently working on: How to use MBTI binary models to predict from user input and hosting of the service.  
 
 **Roadmap**  
 Datasets that will be used(3):
@@ -17,12 +16,13 @@ Datasets that will be used(3):
 Time to lemmatize: 10 Minutes.  
 Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)  
 |  
+Notebooks for inspiration:  
 [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
 - [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 
-Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against 30% of the combined dataset of 112K~ entries.  
+Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values.  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 **Binary Models Hosted on Hugging Face:** https://huggingface.co/jhonatanparada499/binary-mbti-classifiers/tree/main
 
