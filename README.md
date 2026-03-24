@@ -1,9 +1,15 @@
 # SP26 Jhonathan Parada
 TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
+TASK: Visualize the dataset.
 
 ML research with Jhonathan Parada  
 Currently working on: How to use MBTI binary models to predict from user input and hosting of the service.  
 
+**Tunning**  
+- [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make?  
+
+When displaying the confusion matrix of the models, I enabled the normalization parameter because the dataset is unbalanced.
+"if 'true', the confusion matrix is normalized over the true conditions (e.g. rows);" [source](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html)  
 **Roadmap**  
 Datasets that will be used(3):
 - [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  (Includes cleaned [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type) and [Myers Briggs Personality Tags on Reddit Data](https://zenodo.org/records/1323873#.YXhg5xpBzIV))  
@@ -17,7 +23,7 @@ Time to lemmatize: 10 Minutes.
 Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)  
 |  
 Notebooks for inspiration:  
-[Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
+- [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
 - [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
