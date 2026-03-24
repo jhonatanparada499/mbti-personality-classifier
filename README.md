@@ -29,6 +29,7 @@ Notebooks for inspiration:
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 
 Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values.  
+Test Data was about 34K entries.
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 **Binary Models Hosted on Hugging Face:** https://huggingface.co/jhonatanparada499/binary-mbti-classifiers/tree/main
 
