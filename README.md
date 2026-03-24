@@ -31,6 +31,10 @@ Notebooks for inspiration:
 Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values.  
 Test Data was about 34K entries.
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
+
+**Normalized Confusion Matrices**  
+![confusion_matrix_j_p](./images/normalized_confusion_matrix_JvsP.png)
+
 **Binary Models Hosted on Hugging Face:** https://huggingface.co/jhonatanparada499/binary-mbti-classifiers/tree/main
 
 ## Personality
