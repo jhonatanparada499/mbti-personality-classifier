@@ -28,8 +28,7 @@ Notebooks for inspiration:
 - [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 
-Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values.  
-Test Data was about 34K entries.
+Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values. Test Data was about 34K entries.  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
 **Normalized Confusion Matrices**  
