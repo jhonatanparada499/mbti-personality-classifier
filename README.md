@@ -31,6 +31,7 @@ Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
 **Distribution across Types Indicators**  
+Code Implementation: https://www.kaggle.com/code/rajshreev/mbti-personality-predictor-using-machine-learning  
 ![distribution_types_indicator](./images/binary_distribution_mbti.png)  
 
 **Normalized Confusion Matrices**  
