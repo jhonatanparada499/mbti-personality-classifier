@@ -30,7 +30,7 @@ Notebooks for inspiration:
 Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values. Test Data was about 34K entries.  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
-**Distribution accross Types Indicators**  
+**Distribution across Types Indicators**  
 ![distribution_types_indicator](./images/binary_distribution_mbti.png)  
 
 **Normalized Confusion Matrices**  
