@@ -34,7 +34,7 @@ Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N
 ![distribution_types_indicator](./images/binary_distribution_mbti.png)  
 
 **Normalized Confusion Matrices**  
-The normalized confusion matrix of the most balanced distribution across types indicators (J) and (P) is shown below:
+The normalized confusion matrix of the most balanced distribution across types indicators (J) and (P) is shown below:  
 ![confusion_matrix_j_p](./images/normalized_confusion_matrix_JvsP.png)
 
 **Binary Models Hosted on Hugging Face:** https://huggingface.co/jhonatanparada499/binary-mbti-classifiers/tree/main
