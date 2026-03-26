@@ -1,5 +1,5 @@
 # SP26 Jhonathan Parada
-TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
+**Project Demo:** [mbti-classifier-demo](https://jhonatanparada499-mbti-classifier-demo.hf.space/?logs=container&__theme=light&deep_link=bwaLgLSXrno)  
 
 ML research with Jhonathan Parada  
 Currently working on: Hosting of the service.  
