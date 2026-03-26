@@ -2,7 +2,7 @@
 TASK: Research Hugging Face Spaces for UI and model deployment (simplest way).
 
 ML research with Jhonathan Parada  
-Currently working on: How to use MBTI binary models to predict from user input and hosting of the service.  
+Currently working on: Hosting of the service.  
 
 **Tunning**  
 - [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make?  
