@@ -2,7 +2,7 @@
 **Project Demo:** [mbti-classifier-demo](https://huggingface.co/spaces/jhonatanparada499/mbti-classifier-demo)  
 
 ML research with Jhonathan Parada  
-Currently working on: Hosting of the service.  
+Currently working on: Trying to understand why the code I used for word2vec performed worse than tlfid. The word2vec tranformer took 35 minutes to train the four mbti models.  
 
 **Tunning**  
 - [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make?  
