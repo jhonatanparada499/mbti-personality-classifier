@@ -4,6 +4,9 @@
 ML research with Jhonathan Parada  
 Currently working on: Trying to understand why the code I used for word2vec performed worse than tlfid. The word2vec tranformer took 35 minutes to train the four mbti models.  
 
+## Word2Vec
+Took 35 minutes to train 4 binary models. Performance was about 10% less than using tlfidf + bigrams. Although, I used a function that I copied from this [article](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/) without understanding what its parameters do.  
+
 **Tunning**  
 - [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make?  
 
