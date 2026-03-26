@@ -1,5 +1,5 @@
 # SP26 Jhonathan Parada
-**Project Demo:** [mbti-classifier-demo](https://jhonatanparada499-mbti-classifier-demo.hf.space/?logs=container&__theme=light&deep_link=bwaLgLSXrno)  
+**Project Demo:** [mbti-classifier-demo](https://huggingface.co/spaces/jhonatanparada499/mbti-classifier-demo)  
 
 ML research with Jhonathan Parada  
 Currently working on: Hosting of the service.  
