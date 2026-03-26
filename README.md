@@ -217,3 +217,4 @@ weighted avg       0.90      0.89      0.89     20813
 - [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings)
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)
 - [Gradio Spaces](https://huggingface.co/docs/hub/en/spaces-sdks-gradio)
+- [Integrating Word2Vec with Scikit-Learn Pipelines](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/)
