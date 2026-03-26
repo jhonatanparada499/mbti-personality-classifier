@@ -216,3 +216,4 @@ weighted avg       0.90      0.89      0.89     20813
 - [N-grams in NLP](https://medium.com/@abhishekjainindore24/n-grams-in-nlp-a7c05c1aff12)
 - [Google ML Concepts/Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings)
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)
+- [Gradio Spaces](https://huggingface.co/docs/hub/en/spaces-sdks-gradio)
