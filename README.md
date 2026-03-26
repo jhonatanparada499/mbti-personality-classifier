@@ -1,5 +1,6 @@
 # SP26 Jhonathan Parada
 **Project Demo:** [mbti-classifier-demo](https://huggingface.co/spaces/jhonatanparada499/mbti-classifier-demo)  
+![web_demo_interface](./images/mbti-web-demo.gif)  
 
 ML research with Jhonathan Parada  
 Currently working on: Trying to understand why the code I used for word2vec performed worse than tlfid. The word2vec tranformer took 35 minutes to train the four mbti models.  
