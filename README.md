@@ -3,7 +3,7 @@
 ![web_demo_interface](./images/mbti-web-demo.gif)  
 
 ML research with Jhonathan Parada  
-Currently working on: Trying to understand why the code I used for word2vec performed worse than tlfid. The word2vec tranformer took 35 minutes to train the four mbti models.  
+Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial)
 
 ## Word2Vec
 Took 35 minutes to train 4 binary models. Performance was about 10% less than using tlfidf + bigrams. Although, I used a function that I copied from this [article](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/) without understanding what its parameters do.  
