@@ -9,7 +9,7 @@ Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/
 Took 35 minutes to train 4 binary models. Performance was about 10% less than using tlfidf + bigrams. Although, I used a function that I copied from this [article](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/) without understanding what its parameters do.  
 
 **Tunning**  
-- [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make?  
+- [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make? Updated 2026-03-28, nothing, as shown in [no-stopwords-binary_mbti_personality_classification](./no-stopwords-binary_mbti_personality_classification.ipynb)ignoring stop words did not change the model substantially. However, the N-S model improved its accuracy by 1%.  
 
 When displaying the confusion matrix of the models, I enabled the normalization parameter because the dataset is unbalanced.
 "if 'true', the confusion matrix is normalized over the true conditions (e.g. rows);" [source](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html)  
