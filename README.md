@@ -3,7 +3,7 @@
 ![web_demo_interface](./images/mbti-web-demo.gif)  
 
 ML research with Jhonathan Parada  
-Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial)
+Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters)
 
 ## Word2Vec
 Took 35 minutes to train 4 binary models. Performance was about 10% less than using tlfidf + bigrams. Although, I used a function that I copied from this [article](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/) without understanding what its parameters do.  
@@ -26,7 +26,6 @@ Time to lemmatize: 10 Minutes.
 Cleaned Dataset Link: [Cleaned MBTI Personality Type Twitter Dataset](https://www.kaggle.com/datasets/jhonatanparada/cleaned-mbti-personality-type-twitter-dataset)  
 |  
 Notebooks for inspiration:  
-- [Predicting Introversion/Extroversion Based on Your Writing?](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236)  
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)  
 - [AdvancedMBTI TextClassification](https://www.kaggle.com/code/hadia150/advancedmbti-textclassification)  
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
