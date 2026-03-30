@@ -3,7 +3,7 @@
 ![web_demo_interface](./images/mbti-web-demo.gif)  
 
 ML research with Jhonathan Parada  
-Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters)
+Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
 
 ## Word2Vec
 Took 35 minutes to train 4 binary models. Performance was about 10% less than using tlfidf + bigrams. Although, I used a function that I copied from this [article](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/) without understanding what its parameters do.  
@@ -222,3 +222,4 @@ weighted avg       0.90      0.89      0.89     20813
 - [MBTI - 16 Personalities classifier](https://github.com/edu-rinaldi/MBTI-Predictor/blob/main/MBTI.ipynb)
 - [Gradio Spaces](https://huggingface.co/docs/hub/en/spaces-sdks-gradio)
 - [Integrating Word2Vec with Scikit-Learn Pipelines](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/)
+- [Language Processing Pipelines](https://spacy.io/usage/processing-pipelines)  
