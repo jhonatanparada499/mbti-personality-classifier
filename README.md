@@ -10,6 +10,10 @@ Start the Container
 ```
 $ docker run -p 8080:80 jhonatanparada499/mbti-predictor
 ```
+Go to Browser
+```
+localhost:8080
+```
 
 ML research with Jhonathan Parada  
 Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
