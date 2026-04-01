@@ -1,6 +1,15 @@
 # SP26 Jhonathan Parada
-**Project Demo:** [mbti-classifier-demo](https://huggingface.co/spaces/jhonatanparada499/mbti-classifier-demo)  
-![web_demo_interface](./images/mbti-web-demo.gif)  
+**Project Demo:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
+![structure](./images/project-file-structure.png)  
+
+Download the Container  
+```
+$ docker pull jhonatanparada499/mbti-predictor
+```
+Start the Container  
+```
+$ docker run -p 8080:80 jhonatanparada499/mbti-predictor
+```
 
 ML research with Jhonathan Parada  
 Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
