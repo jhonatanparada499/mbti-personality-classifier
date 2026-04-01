@@ -1,5 +1,5 @@
 # SP26 Jhonathan Parada
-**Project Demo:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
+**Project Demo:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)(inspiration: [Building a Web Application to Deploy Machine Learning Models](https://medium.com/data-science/building-a-web-application-to-deploy-machine-learning-models-e224269c1331))  
 ![structure](./images/project-file-structure.png)  
 
 Download the Container  
