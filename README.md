@@ -1,5 +1,9 @@
 # SP26 Jhonathan Parada
 **Project Demo:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)(inspiration: [Building a Web Application to Deploy Machine Learning Models](https://medium.com/data-science/building-a-web-application-to-deploy-machine-learning-models-e224269c1331))  
+
+**Production Tentative Architecture**  
+![Architecture](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56zf2r5ljmujm2jwtz8y.jpg)
+
 ![structure](./images/project-file-structure.png)  
 
 Download the Container  
