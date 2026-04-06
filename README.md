@@ -2,7 +2,7 @@
 **Application Repository:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
 
 **Production Tentative Architecture**  
-![Architecture](./images/System Architecture.drawio.png)
+![Architecture](./images/system_architecture.drawio.png)
 
 Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
 
