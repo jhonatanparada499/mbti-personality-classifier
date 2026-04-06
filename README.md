@@ -1,8 +1,15 @@
 # SP26 Jhonathan Parada
-**Application Repository:** [mbti-classifier-demo](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
+**Application Repository:** [mbti-classifier-web-app](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
 
-**Production Tentative Architecture**  
+**Production Architecture**  
 ![Architecture](./images/system_architecture.drawio.png)
+
+**Frontend**  
+index.html  
+![fronted](./images/web_app_index.png)  
+  
+prediction.html  
+![fronted](./images/web_app_prediction.png.png)  
 
 Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
 
