@@ -5,7 +5,7 @@ jhonatanparada499@gmail.com
 **Category of Funded Work**  
 NYSG Internship  
   
-**Location**
+**Location**  
 The City University of New York, Queensborough Community College  
 11364  
 11225  
