@@ -34,7 +34,15 @@ One of the challenges faced was dealing with an unbalanced dataset. When a model
 
 To deal with that challenge, this is what I did: I added class_weight='balanced' in Logistic Regression parameter and added stratify=y in train_test_split. The first one, according to scikit-learn is a parameter used to handle unbalanced datasets, which adjusts its loss function to penalize mistakes on the minority class more than on the majority. The second one is a parameter that makes the train and test sets keep the same proportion of classes as the original dataset (if train set has ratio 9:1 classes, test set will also have 9:1 ratio, to prevent randomization function to accidently make the test ratio 10:0) 
 
+**Impact**
+n/a
+
 **Feedback to NYSG**  
+1. My mentor guided me by assigning me subprojects with technologies that would be integrated into the final project. Thanks to this, I was giving enough context and experience to complete such a complex project(from my perspective) in four months. I believe knowing what to do, and in what order was the most important part of this experience, which I could have not done without my mentor.
+
+2. Every aspect regarding this research experience went well, specially the mentorship was excellent.
+
+3. From my perspective, everything went well.
 
 **Reflection**  
 
