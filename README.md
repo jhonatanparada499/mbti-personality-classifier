@@ -34,8 +34,6 @@ Took 35 minutes to train 4 binary models. Performance was about 10% less than us
 | JP | 0.58 | 0.74 | 0.85 | 
 | Avg | 0.71 | 0.81 | 0.89 |
 
-When displaying the confusion matrix of the models, I enabled the normalization parameter because the dataset is unbalanced.
-"if 'true', the confusion matrix is normalized over the true conditions (e.g. rows);" [source](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html)  
 **Roadmap**  
 Datasets that will be used(3):
 - [MBTI Personality Types 500 Dataset](https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset)  (Includes cleaned [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type) and [Myers Briggs Personality Tags on Reddit Data](https://zenodo.org/records/1323873#.YXhg5xpBzIV))  
@@ -54,6 +52,8 @@ Notebooks for inspiration:
 - [Python | PoS Tagging and Lemmatization using spaCy](https://www.geeksforgeeks.org/machine-learning/python-pos-tagging-and-lemmatization-using-spacy/)  
 
 Below is the performance of Introvert vs Extrovert and Sensing(S) vs Intuition(N) against a random 30% of the combined dataset of 112K~ values. Test Data was about 34K entries.  
+I enabled the normalization parameter because the dataset is unbalanced.
+"if 'true', the confusion matrix is normalized over the true conditions (e.g. rows);" [source](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html)  
 ![binary classifiers](./images/binary_mbti_classifiers_performance.png)  
 
 **Distribution across Types Indicators**  
