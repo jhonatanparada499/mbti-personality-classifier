@@ -24,6 +24,16 @@ Took 35 minutes to train 4 binary models. Performance was about 10% less than us
 - [This article](https://alaskalam.medium.com/predicting-introversion-extroversion-based-on-your-writing-43c08512f236) removes "stopwords" like (the, for, in, a), my dataset does not. What difference does that make? Updated 2026-03-28, nothing, as shown in [no-stopwords-binary_mbti_personality_classification](./no-stopwords-binary_mbti_personality_classification.ipynb)ignoring stop words did not change the model substantially. However, the N-S model improved its accuracy by 1%.  
 - The class_weight='balanced' parameter in LogisticRegression algorithm penalizes misclassifications of the minority class more heavily to deal with my unbalanced dataset.  
 
+## Results
+**Accuracy for MBTI dimension by Classification Algorithm**
+| Dimension | Naïve Bayes | SVM | Logistic Regression + tunned TFIDF params |
+| -------- | ------- | ------- | ------- |
+| IE | 0.75 | 0.75 | 0.88 | 
+| NS | 0.90 | 0.90 | 0.92 | 
+| TF | 0.64 | 0.86 | 0.91 | 
+| JP | 0.58 | 0.74 | 0.85 | 
+| Avg | 0.71 | 0.81 | 0.89 |
+
 When displaying the confusion matrix of the models, I enabled the normalization parameter because the dataset is unbalanced.
 "if 'true', the confusion matrix is normalized over the true conditions (e.g. rows);" [source](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html)  
 **Roadmap**  
