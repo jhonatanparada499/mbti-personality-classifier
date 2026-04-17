@@ -15,6 +15,9 @@ index.html
 prediction.html  
 ![fronted](./images/web_app_prediction.png)  
 
+**Project File Structure**  
+![file_structure](./images/project-file-structure.png)
+
 Currently working on: Reading [Gensim Word2Vec Tutorial](https://www.kaggle.com/code/pierremegret/gensim-word2vec-tutorial) (Reading: The parameters), [Language Processing Pipelines with SpaCy](https://spacy.io/usage/processing-pipelines)  
 
 ## Word2Vec
