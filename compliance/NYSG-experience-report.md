@@ -45,6 +45,8 @@ n/a
 3. From my perspective, everything went well.
 
 **Reflection**  
-The most significant thing I learned from this experience is the power of documenting your consistency. Every single day since the start of this experience I worked and documented everything I did. Being able to visualize all the progress I have made has given me motivation to continue working on this project. How powerful it is to split tasks and problems into smaller chunks. I did not only have to deal with the research itself, which was a huge part alone, but I had to deal with college, an internship, another research project, creating posters and writing these answers themselves. Another important thing I learned is that good mentors can release peoples' potential. I worked hard on this research project, it was because I had a mentor that is technical, experienced and enthusiastic.
+1. The most significant thing I learned from this experience is the power of documenting your consistency. Every single day since the start of this experience I worked and documented everything I did. Being able to visualize all the progress I have made has given me motivation to continue working on this project. How powerful it is to split tasks and problems into smaller chunks. I did not only have to deal with the research itself, which was a huge part alone, but I had to deal with college, an internship, another research project, creating posters and writing these answers themselves. Another important thing I learned is that good mentors can release peoples' potential. I worked hard on this research project, it was because I had a mentor that is technical, experienced and enthusiastic.
+
+2. 
 
 **Artifacts**  
