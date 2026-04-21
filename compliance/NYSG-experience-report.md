@@ -29,6 +29,8 @@ Personality is a fundamental yet often overlooked aspect of human behavior. It i
 | JP | 0.58 | 0.74 | 0.85 | 
 | Avg | 0.71 | 0.81 | 0.89 |
 
+![precision-recall](./images/mbti_precision-recal_curves.png)
+
 **Challenges**  
 One of the challenges faced was dealing with an unbalanced dataset. When a model is trained using an unbalanced dataset, it might appear that it performs well when running predictions on a test set. But because the dataset is not evenly balanced (for example there is 90% records for class A, but only 10% for class B), the model will make correct predictions, not because of its algorithm, but because the dataset it was trained on is favoring one side.
 
