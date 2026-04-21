@@ -1,7 +1,5 @@
 # SP26 Jhonathan Parada
 
-TASK: Work on testing models and integrating them into slides.  
-
 **Application Repository:** [mbti-classifier-web-app](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
 **Web Address:** 165.22.40.123
 
@@ -28,6 +26,10 @@ Took 35 minutes to train 4 binary models. Performance was about 10% less than us
 - The class_weight='balanced' parameter in LogisticRegression algorithm penalizes misclassifications of the minority class more heavily to deal with my unbalanced dataset.  
 
 ## Results
+Precision-Recall curves for each MBTI dimension  
+![precision-recall](./images/mbti_precision-recal_curves.png)
+
+**Edited:** When dealing with unbalanced datasets, accuracy is a poor metric to evaluate the performance of binary models.  
 **Accuracy for MBTI dimension by Classification Algorithm**
 | Dimension | Naïve Bayes | SVM | Logistic Regression + tunned TFIDF params |
 | -------- | ------- | ------- | ------- |
@@ -248,3 +250,4 @@ weighted avg       0.90      0.89      0.89     20813
 - [Gradio Spaces](https://huggingface.co/docs/hub/en/spaces-sdks-gradio)
 - [Integrating Word2Vec with Scikit-Learn Pipelines](https://notes.shanakadesoysa.com/Python/Misc/Woed2Vec_sklearn/)
 - [Language Processing Pipelines](https://spacy.io/usage/processing-pipelines)  
+- [Precision-Recall](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
