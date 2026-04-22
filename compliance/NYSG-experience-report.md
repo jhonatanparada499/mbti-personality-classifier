@@ -49,6 +49,14 @@ n/a
 **Reflection**  
 1. The most significant thing I learned from this experience is the power of documenting your consistency. Every single day since the start of this experience I worked and documented everything I did. Being able to visualize all the progress I have made has given me motivation to continue working on this project. How powerful it is to split tasks and problems into smaller chunks. I did not only have to deal with the research itself, which was a huge part alone, but I had to deal with college, an internship, another research project, creating posters and writing these answers themselves. Another important thing I learned is that good mentors can release peoples' potential. I worked hard on this research project, it was because I had a mentor that is technical, experienced and enthusiastic.
 
-2. 
+2. The most notorious challenged I faced was processing such a density of information in a short time. The way I will approach research or project management in the future is with carefulness. Feeling stuck made me frustrated many times because I wanted to keep progressing, but there is a point where your brain or intelligence can't understand some topics as fast as other ones.
+
+3. I wish I would have define the scope of the research project specifically rather than build without a vision.
+
+4. Professionally, I have finally achieved one of my goals of working and creating complex visuals with data. Personally, I have became more collaborative and disciplined. 
+
+5. I has prepared me by making me more competent, goal-oriented and critical thinker.
+
+6. Thanks to this research project, I feel more interested in exploring machine learning and natural language processing.
 
 **Artifacts**  
