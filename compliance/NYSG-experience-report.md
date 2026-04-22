@@ -60,3 +60,8 @@ n/a
 6. Thanks to this research project, I feel more interested in exploring machine learning and natural language processing.
 
 **Artifacts**  
+- Poster on End-to-End System of MBTI Personality Recognition presented at [place]
+- Presentation on End-to-End System of MBTI Personality Recognition presented at [place]
+
+**Budget Reconciliation and Reflection**
+The expenditures of this project included mostly time and credits for hosting a web application in DigitalOcean. The budget of this research in my opinion equaled the time and work that was dedicated to this project.
