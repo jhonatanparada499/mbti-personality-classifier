@@ -1,6 +1,7 @@
 **Contact Information**  
 Jhonatan Parada Torres  
 jhonatanparada499@gmail.com  
+jhonatan.paradatorres44@student.qcc.cuny.edu
   
 **Category of Funded Work**  
 NYSG Internship  
@@ -60,10 +61,10 @@ n/a
 6. Thanks to this research project, I feel more interested in exploring machine learning and natural language processing.
 
 **Artifacts**  
-- Poster presented at Queens College on 4/30/26 
+- Poster presented at Queens College on 4/30/26  
 ![Queens College Poster](../images/queens_college_poster_presentation.jpg)
 
-- Presentation certificate issued by Queensborough Community College
+- Presentation certificate issued by Queensborough Community College  
 ![Presentation Certificate](../images/Presentation_Certificate.png)
 
 **Budget Reconciliation and Reflection**
