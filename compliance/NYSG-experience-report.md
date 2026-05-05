@@ -60,8 +60,11 @@ n/a
 6. Thanks to this research project, I feel more interested in exploring machine learning and natural language processing.
 
 **Artifacts**  
-- Poster on End-to-End System of MBTI Personality Recognition presented at [place]
-- Presentation on End-to-End System of MBTI Personality Recognition presented at [place]
+- Poster presented at Queens College on 4/30/26 
+![Queens College Poster](../images/queens_college_poster_presentation.jpg)
+
+- Presentation certificate issued by Queensborough Community College
+![Presentation Certificate](../images/Presentation_Certificate.png)
 
 **Budget Reconciliation and Reflection**
-The expenditures of this project included mostly time and credits for hosting a web application in DigitalOcean. The budget of this research in my opinion equaled the time and work that was dedicated to this project.
+The expenditures of this project included mostly time and credits from hosting a web application in DigitalOcean, which in total was 24$.
