@@ -1,7 +1,6 @@
 # SP26 Jhonathan Parada
 
 **Application Repository:** [mbti-classifier-web-app](https://github.com/jhonatanparada499/mbti-classifier-web-app)  
-**Web Address:** 165.22.40.123
 
 **Production Architecture**  
 ![Architecture](./images/system_architecture.drawio.png)
